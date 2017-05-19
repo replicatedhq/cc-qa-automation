@@ -6,7 +6,7 @@ This coding challenge will involve testing two unauthenticated endpoints on GitH
 
 ## Details for submission
 
-Please fork and clone this GitHub repository, then submit a pull request back into it with your changes.  Feel free to modify or add whatever you need including addition of other packages, your own libraries, etc.  Please replace this README.md with a list and explanation of your test scenarios.  
+Please fork and clone this GitHub repository, then submit a pull request back into it with your changes.  Feel free to modify or add whatever you need including addition of other packages, your own libraries, etc.  Please add to this README.md or create another one with a list and explanation of your test scenarios.  
 
 ## Documentation
 
