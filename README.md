@@ -20,19 +20,11 @@ Please fork and clone this GitHub repository, then submit a pull request back in
 
 ## Setup for development
 
-Build the Docker container:
-
-```shell
-make docker
-```
-
 Run the tests:
 
 ```shell
 make test
 ```
-
-While the container is running, you will be able to edit the tests on your host system and they will be immediately available after saving inside the Docker container.
 
 ## What we review
 
