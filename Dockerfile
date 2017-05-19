@@ -9,4 +9,4 @@ ENV LOG_LEVEL DEBUG
 
 WORKDIR $PROJECTPATH
 
-CMD ["/bin/bash"]
+CMD ["ginkgo -r -v"]
