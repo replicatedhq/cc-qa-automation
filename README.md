@@ -20,6 +20,8 @@ Please fork and clone this GitHub repository, then submit a pull request back in
 
 ## Setup for development
 
+Install Docker
+
 Run the tests:
 
 ```shell
