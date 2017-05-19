@@ -26,13 +26,7 @@ Build the Docker container:
 make docker
 ```
 
-Run the container and connect to shell inside:
-
-```shell
-make shell
-```
-
-Run the tests (make sure you run this inside the shell:
+Run the tests:
 
 ```shell
 make test
