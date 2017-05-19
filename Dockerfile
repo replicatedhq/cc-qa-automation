@@ -9,4 +9,4 @@ ENV LOG_LEVEL DEBUG
 
 WORKDIR $PROJECTPATH
 
-CMD ["ginkgo -r -v"]
+CMD ["ginkgo", "-r", "-v"]
