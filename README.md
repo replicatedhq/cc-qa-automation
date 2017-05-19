@@ -1,5 +1,3 @@
-# Coding Challenge: QA Automation Engineer
-=======
 # Replicated QA Automation Coding Challenge
 
 ## Purpose
